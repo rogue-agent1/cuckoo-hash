@@ -1,6 +1,6 @@
 # cuckoo-hash
 
-Cuckoo hashing implementation.""".
+Cuckoo hashing implementation.
 
 Zero dependencies. Python 3.8+.
 
